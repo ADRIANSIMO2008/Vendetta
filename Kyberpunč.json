@@ -3,8 +3,8 @@
     "description": "Theme built around Cyberpunk 2077 HUD",
     "authors": [
       {
-        "name": "Shion",
-        "id": "499287211381096458"
+        "name": "ADRIAN",
+        "id": "1"
       }
     ],
     "semanticColors": {
@@ -102,7 +102,7 @@
       "#c7c7c7"
       ],
       "TEXT_SECONDARY": [
-      "#000000"
+      "#ffffff"
       ],
       "CARD_PRIMARY_BG": [
       "#000000"
